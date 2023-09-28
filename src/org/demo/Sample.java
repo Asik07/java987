@@ -11,7 +11,9 @@ System.out.println("abdul");
 System.out.println("asik");
 	}
 	
-	
+	private void method3() {
+System.out.println("master");
+	}
 
 public static void main(String[] args) {
 	
