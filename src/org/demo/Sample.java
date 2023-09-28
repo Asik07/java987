@@ -3,6 +3,10 @@ package org.demo;
 public class Sample {
 	
 
+	private void method4() {
+System.out.println("praveen");
+	}
+	
 	private void method2() {
 System.out.println("abdul");
 	}
